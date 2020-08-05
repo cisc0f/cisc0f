@@ -1,18 +1,18 @@
 # Hey 👋
 
 
-## <span style="background-color: #184D47;padding: 10px;border-radius:20px;color: white;">I'm Francesco but u can call me **cisc0** :</span>
+## I'm Francesco but u can call me **cisc0** 
 
-### <span style="background-color: #96BB7C;padding: 10px;border-radius:20px;"> I'm 20yo </span>
-### <span style="background-color: #96BB7C;padding: 10px;border-radius:20px;"> Computer Science Student 💻</span>
-### <span style="background-color: #96BB7C;padding: 10px;border-radius:20px;"> Sailor ⛵️</span>
+* 20yo 
+* Computer Science Student 💻
+* Sailor ⛵️
 
-## <span style="background-color: #EEBB4D;padding: 10px;border-radius:20px;">**Goals :**</span>
+## **Goals :**
 
-### <span style="background-color: #96BB7C;padding: 10px;border-radius:20px;"> 2020 -> Increase Python knowledge</span>
-### <span style="background-color: #96BB7C;padding: 10px;border-radius:20px;"> 2021 -> ...</span>
+* 2020 -> Increase Python knowledge
+* 2021 -> ...
 
-## <span style="background-color: #D6EFC7;padding: 10px;border-radius:20px;color: black;">**Languages, Tools and Frameworks :**</span>
+## **Languages, Tools and Frameworks :**
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
@@ -23,7 +23,7 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
 <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" />
 
-## <span style="background-color: #184D47;padding: 10px;border-radius:20px;color: white;">**Connect with me :**</span>
+## **Connect with me :**
 
 
 <a href="https://www.instagram.com/francescocoacci/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30" /></a> &nbsp;&nbsp;
