@@ -1,4 +1,4 @@
-# <span style="background-color: #EEBB4D;padding: 10px;border-radius:40px;"> Hey</span>&nbsp;👋<br><sup>&nbsp;</sup>
+# Hey 👋
 
 
 ## <span style="background-color: #184D47;padding: 10px;border-radius:20px;color: white;">I'm Francesco but u can call me **cisc0** :</span>
