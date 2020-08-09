@@ -31,6 +31,7 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" />
 
 <br />
 <br />
