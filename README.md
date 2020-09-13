@@ -32,6 +32,8 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+<img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
 
 <br />
 <br />
