@@ -1,16 +1,14 @@
 # Hey 👋
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
-
 ## I'm Francesco but u can call me **cisc0** 
 
-* 20yo 
+* 21yo 
 * Computer Science Student 💻
 * Sailor ⛵️
 
 ## **Goals :**
 
-* 2020 -> Increase Python knowledge
+* 2020 -> Learning...
 * 2021 -> ...
 
 ## **Connect with me :**
@@ -34,10 +32,3 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
-
-<br />
-<br />
-<br />
-<br />
-
-[![Cisc0f's github stats](https://github-readme-stats.vercel.app/api?username=cisc0f&show_icons=true&theme=vue)](https://github.com/cisc0f/github-readme-stats)
