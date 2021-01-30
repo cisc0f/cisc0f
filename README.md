@@ -8,16 +8,9 @@
 
 ## **Goals :**
 
-* 2020 -> Learning...
-* 2021 -> ...
-
-## **Connect with me :**
-
-<a href="https://www.instagram.com/francescocoacci/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/francescocoacci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/francesco.coacci.54" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="30" /></a> &nbsp;&nbsp;
-<a href="mailto:francesco@coacci.it" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" height="30" width="30" /></a> &nbsp;&nbsp;
-
+* 2021 -> New projects
+          Learn new stuff
+          Contribute on a repo
 
 ## **Languages, Tools and Frameworks :**
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
