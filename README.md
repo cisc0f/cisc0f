@@ -8,9 +8,10 @@
 
 ## **Goals :**
 
-* 2021 -> New projects
-          Learn new stuff
-          Contribute on a repo
+2021:
+* New projects
+* Learn new stuff
+* Contribute on a repo
 
 ## **Languages, Tools and Frameworks :**
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
