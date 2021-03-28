@@ -12,4 +12,4 @@
 * New projects
 * Learn new stuff
 * Contribute on a repo
-* Learn from Bitcoin repo Blockchain basics
+* Learn from Stellar Core repo Blockchain stuff
